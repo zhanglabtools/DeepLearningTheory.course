@@ -19,7 +19,6 @@ The topics and the corresponding material are as follows:
   10. **Neural ODEs** [material](#Neural-ODEs) 
   11. **Neural Networks Learn the Geodesic Curve in the Wasserstein Space** [material](#Neural-Networks-Learn-the-Geodesic-Curve-in-the-Wasserstein-Space)
   12. **Generative Model：GAN, VAE and Roundtrip** [material](#Generative-Model：-GAN,-VAE-and-Roundtrip)
-  13. **Interpretability of Neural Networks, Frequency principle** [material](#Interpretability-of-Neural-Networks,-Frequency-principle)
 
 ##  Prerequisites
 
@@ -48,8 +47,6 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 ## Neural Networks Learn the Geodesic Curve in the Wasserstein Space
 
 ## Generative Model：GAN, VAE and Roundtrip
-
-## Interpretability of Neural Networks, Frequency Principle
 
 
 
