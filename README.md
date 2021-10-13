@@ -18,13 +18,26 @@ The topics and the corresponding material are as follows:
   9. **The Fragility of Neural Networks** [material](#The-Fragility-of-Neural-Networks) 
   10. **Neural ODEs** [material](#Neural-ODEs) 
   11. **Neural Networks Learn the Geodesic Curve in the Wasserstein Space** [material](#Neural-Networks-Learn-the-Geodesic-Curve-in-the-Wasserstein-Space)
-  12. **Generative Model：GAN, VAE and Roundtrip** [material](#Generative-Model：-GAN,-VAE-and-Roundtrip)
+  12. **Generative Model** [material](#Generative-Model)
 
 ##  Prerequisites
 
 Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimization, Matrix Theory, Fundamentals of Machine Learning and Deep Learning
 
 ## Introduction to Deep Learning
+
+### Key papers
++ Hornik, K., Stinchcombe, M., & White, H. (1989). Multilayer feedforward networks are universal approximators. Neural networks, 2(5), 359-366.
++ Ruder, S. (2016). An overview of gradient descent optimization algorithms. arXiv preprint arXiv:1609.04747.
++ Prechelt, L. (1998). Early stopping-but when?. In Neural Networks: Tricks of the trade (pp. 55-69). Springer, Berlin, Heidelberg.
++ Krogh, A., & Hertz, J. A. (1992). A simple weight decay can improve generalization. In Advances in neural information processing systems (pp. 950-957).
++ Wahlbeck, K., Tuunainen, A., Ahokas, A., & Leucht, S. (2001). Dropout rates in randomised antipsychotic drug trials. Psychopharmacology, 155(3), 230-233.
++ Kramer, M. A. (1991). Nonlinear principal component analysis using autoassociative neural networks. AIChE journal, 37(2), 233-243.
++ Ledig, C., Theis, L., Huszár, F., Caballero, J., Cunningham, A., Acosta, A., ... & Shi, W. (2017). Photo-realistic single image super-resolution using a generative adversarial network. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 4681-4690).
++ Lawrence, S., Giles, C. L., Tsoi, A. C., & Back, A. D. (1997). Face recognition: A convolutional neural-network approach. IEEE transactions on neural networks, 8(1), 98-113.
++ He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
++ Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008).
+
 
 ## Approximation Theory of Neural Networks
 
@@ -46,7 +59,7 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 
 ## Neural Networks Learn the Geodesic Curve in the Wasserstein Space
 
-## Generative Model：GAN, VAE and Roundtrip
+## Generative Model
 
 
 
