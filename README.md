@@ -7,7 +7,7 @@ This course is closely around the latest development of deep learning theory. It
 
 
 The topics and the corresponding material are as follows:
-  1. **Introduction to Deep Learning**  [material](#Introduction-to-deep-learning) [slides](./course_files/Lecture1. Overview of deep learning.pdf)
+  1. **Introduction to Deep Learning**  [material](#Introduction-to-deep-learning) [slides](./course_files/Lecture1.Overviewofdeeplearning.pdf)
   2. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks) 
   3. **Algorithmic Regularization** [material](#Algorithmic-Regularization)
   4. **Inductive Biases due to Algorithmic Regularization** [material](#Inductive-Biases-due-to-Algorithmic-Regularization) 
