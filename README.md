@@ -27,6 +27,7 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 ## Introduction to Deep Learning
 
 ### Key papers
++ Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
 + Hornik, K., Stinchcombe, M., & White, H. (1989). Multilayer feedforward networks are universal approximators. Neural networks, 2(5), 359-366.
 + Ruder, S. (2016). An overview of gradient descent optimization algorithms. arXiv preprint arXiv:1609.04747.
 + Prechelt, L. (1998). Early stopping-but when?. In Neural Networks: Tricks of the trade (pp. 55-69). Springer, Berlin, Heidelberg.
