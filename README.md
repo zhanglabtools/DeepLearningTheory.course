@@ -16,7 +16,7 @@ The topics and the corresponding material are as follows:
   7. **Multilayer Convolutional Sparse Coding** [material](#Multilayer-Convolutional-Sparse-Coding)
   8. **Information Bottleneck and Others** [material](#Information-Bottleneck-and-Others)
   9. **The Fragility of Neural Networks** [material](#The-Fragility-of-Neural-Networks) 
-  10. **Neural ODEs** [material](#Neural-ODEs) 
+  10. **Dynamic System** [material](#Dynamic-System) 
   11. **Neural Networks Learn the Geodesic Curve in the Wasserstein Space** [material](#Neural-Networks-Learn-the-Geodesic-Curve-in-the-Wasserstein-Space)
   12. **Generative Model** [material](#Generative-Model)
 
@@ -30,9 +30,6 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 + Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
 + Hornik, K., Stinchcombe, M., & White, H. (1989). Multilayer feedforward networks are universal approximators. Neural networks, 2(5), 359-366.
 + Ruder, S. (2016). An overview of gradient descent optimization algorithms. arXiv preprint arXiv:1609.04747.
-+ Prechelt, L. (1998). Early stopping-but when?. In Neural Networks: Tricks of the trade (pp. 55-69). Springer, Berlin, Heidelberg.
-+ Krogh, A., & Hertz, J. A. (1992). A simple weight decay can improve generalization. In Advances in neural information processing systems (pp. 950-957).
-+ Wahlbeck, K., Tuunainen, A., Ahokas, A., & Leucht, S. (2001). Dropout rates in randomised antipsychotic drug trials. Psychopharmacology, 155(3), 230-233.
 + Kramer, M. A. (1991). Nonlinear principal component analysis using autoassociative neural networks. AIChE journal, 37(2), 233-243.
 + Ledig, C., Theis, L., Huszár, F., Caballero, J., Cunningham, A., Acosta, A., ... & Shi, W. (2017). Photo-realistic single image super-resolution using a generative adversarial network. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 4681-4690).
 + Lawrence, S., Giles, C. L., Tsoi, A. C., & Back, A. D. (1997). Face recognition: A convolutional neural-network approach. IEEE transactions on neural networks, 8(1), 98-113.
@@ -56,7 +53,7 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 
 ## The Fragility of Neural Networks
 
-## Neural ODEs
+## Dynamic System
 
 ## Neural Networks Learn the Geodesic Curve in the Wasserstein Space
 
