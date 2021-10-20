@@ -8,8 +8,8 @@ This course is closely around the latest development of deep learning theory. It
 
 The topics and the corresponding material are as follows:
   1. **Introduction to Deep Learning**  [material](#Introduction-to-deep-learning) [slides](./course_files/Lecture1.OverviewofDeepLearning.pdf)
-  2. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks) 
-  3. **Algorithmic Regularization** [material](#Algorithmic-Regularization)
+  2. **Algorithmic Regularization** [material](#Algorithmic-Regularization) [slides](./course_files/Lecture2.AlgortihmicRegularization.pdf)
+  3. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks)
   4. **Inductive Biases due to Algorithmic Regularization** [material](#Inductive-Biases-due-to-Algorithmic-Regularization) 
   5. **Tractable Landscapes for Nonconvex Optimization** [material](#Tractable-Landscapes-for-Nonconvex-Optimization)
   6. **Neural Tangent Kernel** [material](#Neural-Tangent-Kernel)
@@ -37,9 +37,19 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 + Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008).
 
 
-## Approximation Theory of Neural Networks
-
 ## Algorithmic Regularization
+
+### Key papers
++ Arora, S., Cohen, N., Hu, W., & Luo, Y. (2019). Implicit regularization in deep matrix factorization. Advances in Neural Information Processing Systems, 32, 7413-7424.
++ Byrd, J., & Lipton, Z. (2019, May). What is the effect of importance weighting in deep learning?. In International Conference on Machine Learning (pp. 872-881). PMLR.
++ Gunasekar, S., Lee, J., Soudry, D., & Srebro, N. (2018, July). Characterizing implicit bias in terms of optimization geometry. In International Conference on Machine Learning (pp. 1832-1841). PMLR.
++ Gunasekar, S., Woodworth, B., Bhojanapalli, S., Neyshabur, B., & Srebro, N. (2018, February). Implicit regularization in matrix factorization. In 2018 Information Theory and Applications Workshop (ITA) (pp. 1-10). IEEE.
++ Soudry, D., Hoffer, E., Nacson, M. S., Gunasekar, S., & Srebro, N. (2018). The implicit bias of gradient descent on separable data. The Journal of Machine Learning Research, 19(1), 2822-2878.
++ Xu, D., Ye, Y., & Ruan, C. (2021). Understanding the role of importance weighting for deep learning. arXiv preprint arXiv:2103.15209.
+
+
+
+## Approximation Theory of Neural Networks
 
 ## Inductive Biases due to Algorithmic Regularization
 
