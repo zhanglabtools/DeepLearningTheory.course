@@ -9,7 +9,7 @@ This course is closely around the latest development of deep learning theory. It
 The topics and the corresponding material are as follows:
   1. **Introduction to Deep Learning**  [material](#Introduction-to-deep-learning) [slides](./course_files/Lecture1.OverviewofDeepLearning.pdf)
   2. **Algorithmic Regularization** [material](#Algorithmic-Regularization) [slides](./course_files/Lecture2.AlgortihmicRegularization.pdf)
-  3. **Inductive Biases due to Algorithmic Regularization** [material](#Inductive-Biases-due-to-Algorithmic-Regularization) [slides](./course_files/Lecture3.InductiveBiasesduetoDropout.pdf)
+  3. **Inductive Biases due to Dropout** [material](#Inductive-Biases-due-to-Dropout) [slides](./course_files/Lecture3.InductiveBiasesduetoDropout.pdf)
   4. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks) 
   5. **Tractable Landscapes for Nonconvex Optimization** [material](#Tractable-Landscapes-for-Nonconvex-Optimization)
   6. **Neural Tangent Kernel** [material](#Neural-Tangent-Kernel)
@@ -48,11 +48,12 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 + Xu, D., Ye, Y., & Ruan, C. (2021). Understanding the role of importance weighting for deep learning. arXiv preprint arXiv:2103.15209.
 
 
-## Inductive Biases due to Algorithmic Regularization
+## Inductive Biases due to Dropout
 
 ### Key papers
-
-
++ Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). Dropout: a simple way to prevent neural networks from overfitting. The journal of machine learning research, 15(1), 1929-1958.
++ Arora, R., Bartlett, P., Mianjy, P., & Srebro, N. (2021, July). Dropout: Explicit forms and capacity control. In International Conference on Machine Learning (pp. 351-361). PMLR.
++ Mianjy, P., Arora, R., & Vidal, R. (2018, July). On the implicit bias of dropout. In International Conference on Machine Learning (pp. 3540-3548). PMLR.
 
 ## Approximation Theory of Neural Networks
 
