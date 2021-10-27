@@ -9,8 +9,8 @@ This course is closely around the latest development of deep learning theory. It
 The topics and the corresponding material are as follows:
   1. **Introduction to Deep Learning**  [material](#Introduction-to-deep-learning) [slides](./course_files/Lecture1.OverviewofDeepLearning.pdf)
   2. **Algorithmic Regularization** [material](#Algorithmic-Regularization) [slides](./course_files/Lecture2.AlgortihmicRegularization.pdf)
-  3. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks)
-  4. **Inductive Biases due to Algorithmic Regularization** [material](#Inductive-Biases-due-to-Algorithmic-Regularization) 
+  3. **Inductive Biases due to Algorithmic Regularization** [material](#Inductive-Biases-due-to-Algorithmic-Regularization) [slides](./course_files/Lecture3.InductiveBiasesduetoDropout.pdf)
+  4. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks) 
   5. **Tractable Landscapes for Nonconvex Optimization** [material](#Tractable-Landscapes-for-Nonconvex-Optimization)
   6. **Neural Tangent Kernel** [material](#Neural-Tangent-Kernel)
   7. **Multilayer Convolutional Sparse Coding** [material](#Multilayer-Convolutional-Sparse-Coding)
@@ -48,10 +48,13 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 + Xu, D., Ye, Y., & Ruan, C. (2021). Understanding the role of importance weighting for deep learning. arXiv preprint arXiv:2103.15209.
 
 
+## Inductive Biases due to Algorithmic Regularization
+
+### Key papers
+
+
 
 ## Approximation Theory of Neural Networks
-
-## Inductive Biases due to Algorithmic Regularization
 
 ## Tractable Landscapes for Nonconvex Optimization 
 
