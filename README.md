@@ -54,6 +54,9 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 + Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). Dropout: a simple way to prevent neural networks from overfitting. The journal of machine learning research, 15(1), 1929-1958.
 + Arora, R., Bartlett, P., Mianjy, P., & Srebro, N. (2021, July). Dropout: Explicit forms and capacity control. In International Conference on Machine Learning (pp. 351-361). PMLR.
 + Mianjy, P., Arora, R., & Vidal, R. (2018, July). On the implicit bias of dropout. In International Conference on Machine Learning (pp. 3540-3548). PMLR.
++ Baldi, P., & Sadowski, P. J. (2013). Understanding dropout. Advances in neural information processing systems, 26, 2814-2822.
++ Wager, S., Wang, S., & Liang, P. S. (2013). Dropout training as adaptive regularization. Advances in neural information processing systems, 26, 351-359.
++ Cavazza, J., Morerio, P., Haeffele, B., Lane, C., Murino, V., & Vidal, R. (2018, March). Dropout as a low-rank regularizer for matrix factorization. In International Conference on Artificial Intelligence and Statistics (pp. 435-444). PMLR.
 
 ## Approximation Theory of Neural Networks
 
