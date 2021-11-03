@@ -61,7 +61,12 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 ## Tractable Landscapes for Nonconvex Optimization 
 
 ### Key papers
-
++ Du, S. S., Zhai, X., Poczos, B., & Singh, A. (2018, September). Gradient Descent Provably Optimizes Over-parameterized Neural Networks. In International Conference on Learning Representations.
++ Ge, R., Huang, F., Jin, C., & Yuan, Y. (2015, June). Escaping from saddle points—online stochastic gradient for tensor decomposition. In Conference on learning theory (pp. 797-842). PMLR.
++ Ge, R., Lee, J. D., & Ma, T. (2016, December). Matrix completion has no spurious local minimum. In Proceedings of the 30th International Conference on Neural Information Processing Systems (pp. 2981-2989).
++ Ge, R., Lee, J. D., & Ma, T. (2017). Learning one-hidden-layer neural networks with landscape design. arXiv preprint arXiv:1711.00501.
++ Hardt, M., Ma, T., & Recht, B. (2018). Gradient Descent Learns Linear Dynamical Systems. Journal of Machine Learning Research, 19, 1-44.
++ He, F., Wang, B., & Tao, D. (2019, September). Piecewise linear activations substantially shape the loss surfaces of neural networks. In International Conference on Learning Representations.
 
 ## Approximation Theory of Neural Networks
 
