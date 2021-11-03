@@ -10,8 +10,8 @@ The topics and the corresponding material are as follows:
   1. **Introduction to Deep Learning**  [material](#Introduction-to-deep-learning) [slides](./course_files/Lecture1.OverviewofDeepLearning.pdf)
   2. **Algorithmic Regularization** [material](#Algorithmic-Regularization) [slides](./course_files/Lecture2.AlgortihmicRegularization.pdf)
   3. **Inductive Biases due to Dropout** [material](#Inductive-Biases-due-to-Dropout) [slides](./course_files/Lecture3.InductiveBiasesduetoDropout.pdf)
-  4. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks) 
-  5. **Tractable Landscapes for Nonconvex Optimization** [material](#Tractable-Landscapes-for-Nonconvex-Optimization)
+  4. **Tractable Landscapes for Nonconvex Optimization** [material](#Tractable-Landscapes-for-Nonconvex-Optimization) [slides](./course_files/Lecture4.TractableLandscapes.pdf)
+  5. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks) 
   6. **Neural Tangent Kernel** [material](#Neural-Tangent-Kernel)
   7. **Multilayer Convolutional Sparse Coding** [material](#Multilayer-Convolutional-Sparse-Coding)
   8. **Information Bottleneck and Others** [material](#Information-Bottleneck-and-Others)
@@ -58,9 +58,12 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 + Wager, S., Wang, S., & Liang, P. S. (2013). Dropout training as adaptive regularization. Advances in neural information processing systems, 26, 351-359.
 + Cavazza, J., Morerio, P., Haeffele, B., Lane, C., Murino, V., & Vidal, R. (2018, March). Dropout as a low-rank regularizer for matrix factorization. In International Conference on Artificial Intelligence and Statistics (pp. 435-444). PMLR.
 
-## Approximation Theory of Neural Networks
-
 ## Tractable Landscapes for Nonconvex Optimization 
+
+### Key papers
+
+
+## Approximation Theory of Neural Networks
 
 ## Neural Tangent Kernel
 
