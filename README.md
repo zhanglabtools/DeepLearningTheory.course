@@ -11,9 +11,9 @@ The topics and the corresponding material are as follows:
   2. **Algorithmic Regularization** [material](#Algorithmic-Regularization) [slides](./course_files/Lecture2.AlgortihmicRegularization.pdf)
   3. **Inductive Biases due to Dropout** [material](#Inductive-Biases-due-to-Dropout) [slides](./course_files/Lecture3.InductiveBiasesduetoDropout.pdf)
   4. **Tractable Landscapes for Nonconvex Optimization** [material](#Tractable-Landscapes-for-Nonconvex-Optimization) [slides](./course_files/Lecture4.TractableLandscapes.pdf)
-  5. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks) 
+  5. **Multilayer Convolutional Sparse Coding** [material](#Multilayer-Convolutional-Sparse-Coding) [slides](./course_files/Lecture5.ML-CSC.pdf)
   6. **Neural Tangent Kernel** [material](#Neural-Tangent-Kernel)
-  7. **Multilayer Convolutional Sparse Coding** [material](#Multilayer-Convolutional-Sparse-Coding)
+  7. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks) 
   8. **Information Bottleneck and Others** [material](#Information-Bottleneck-and-Others)
   9. **The Fragility of Neural Networks** [material](#The-Fragility-of-Neural-Networks) 
   10. **Dynamic System** [material](#Dynamic-System) 
@@ -68,11 +68,18 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 + Hardt, M., Ma, T., & Recht, B. (2018). Gradient Descent Learns Linear Dynamical Systems. Journal of Machine Learning Research, 19, 1-44.
 + He, F., Wang, B., & Tao, D. (2019, September). Piecewise linear activations substantially shape the loss surfaces of neural networks. In International Conference on Learning Representations.
 
-## Approximation Theory of Neural Networks
+## Multilayer Convolutional Sparse Coding
+
+### Key papers
++ Zhang, Z., & Zhang, S. (2021). Towards understanding residual and dilated dense neural networks via convolutional sparse coding. National Science Review, 8(3), nwaa159.
++ Papyan, V., Romano, Y., & Elad, M. (2017). Convolutional neural networks analyzed via convolutional sparse coding. The Journal of Machine Learning Research, 18(1), 2887-2938.
++ Papyan, V., Sulam, J., & Elad, M. (2017). Working locally thinking globally: Theoretical guarantees for convolutional sparse coding. IEEE Transactions on Signal Processing, 65(21), 5687-5701.
++ Zeiler, M., Krishnan, D., Taylor, G., & Fergus, R. (2011). Deconvolutional Networks for Feature Learning. In Comput. Vis. Pattern Recognit.(CVPR), 2010 IEEE Conf (pp. 2528-2535).
+
 
 ## Neural Tangent Kernel
 
-## Multilayer Convolutional Sparse Coding
+## Approximation Theory of Neural Networks
 
 ## Information Bottleneck and Others
 
