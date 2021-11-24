@@ -12,10 +12,10 @@ The topics and the corresponding material are as follows:
   3. **Inductive Biases due to Dropout** [material](#Inductive-Biases-due-to-Dropout) [slides](./course_files/Lecture3.InductiveBiasesduetoDropout.pdf)
   4. **Tractable Landscapes for Nonconvex Optimization** [material](#Tractable-Landscapes-for-Nonconvex-Optimization) [slides](./course_files/Lecture4.TractableLandscapes.pdf)
   5. **Multilayer Convolutional Sparse Coding** [material](#Multilayer-Convolutional-Sparse-Coding) [slides](./course_files/Lecture5.ML-CSC.pdf)
-  6. **Neural Tangent Kernel** [material](#Neural-Tangent-Kernel)
-  7. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks) 
-  8. **Information Bottleneck and Others** [material](#Information-Bottleneck-and-Others)
-  9. **The Fragility of Neural Networks** [material](#The-Fragility-of-Neural-Networks) 
+  6. **Vulnerability of Deep Neural Networks** [material](#Vulnerability-of-Deep-Neural-Networks) [slides](./course_files/Lecture6.VulnerabilityofDeepNeuralNetworks.pdf)
+  7.  **Information Bottleneck Theory** [material](#Information-Bottleneck-Theory) [slides](./course_files/Lecture7.InformationBottleneckTheoryofDNNs.pdf)
+  8. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks)
+  9. **Neural Tangent Kernel** [material](#Neural-Tangent-Kernel)
   10. **Dynamic System** [material](#Dynamic-System) 
   11. **Neural Networks Learn the Geodesic Curve in the Wasserstein Space** [material](#Neural-Networks-Learn-the-Geodesic-Curve-in-the-Wasserstein-Space)
   12. **Generative Model** [material](#Generative-Model)
@@ -80,13 +80,13 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 + Pelt, D. M., & Sethian, J. A. (2018). A mixed-scale dense convolutional neural network for image analysis. Proceedings of the National Academy of Sciences, 115(2), 254-259.
 
 
-## Neural Tangent Kernel
+## Vulnerability of Deep Neural Networks
+
+## Information Bottleneck Theory
 
 ## Approximation Theory of Neural Networks
 
-## Information Bottleneck and Others
-
-## The Fragility of Neural Networks
+## Neural Tangent Kernel
 
 ## Dynamic System
 
