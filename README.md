@@ -82,7 +82,13 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 
 ## Vulnerability of Deep Neural Networks
 
+### Key papers
+
+
 ## Information Bottleneck Theory
+
+### Key papers
+
 
 ## Approximation Theory of Neural Networks
 
