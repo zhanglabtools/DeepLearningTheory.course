@@ -83,7 +83,12 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 ## Vulnerability of Deep Neural Networks
 
 ### Key papers
-
++ Fawzi, A., Fawzi, H., & Fawzi, O. (2018). Adversarial vulnerability for any classifier. arXiv preprint arXiv:1802.08686.
++ Shafahi, A., Huang, W. R., Studer, C., Feizi, S., & Goldstein, T. (2018). Are adversarial examples inevitable?. arXiv preprint arXiv:1809.02104.
++ Li, J., Ji, R., Liu, H., Liu, J., Zhong, B., Deng, C., & Tian, Q. (2020). Projection & probability-driven black-box attack. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 362-371).
++ Li, Y., Li, L., Wang, L., Zhang, T., & Gong, B. (2019, May). Nattack: Learning the distributions of adversarial examples for an improved black-box attack on deep neural networks. In International Conference on Machine Learning (pp. 3866-3876). PMLR.
++ Wu, A., Han, Y., Zhang, Q., & Kuang, X. (2019, July). Untargeted adversarial attack via expanding the semantic gap. In 2019 IEEE International Conference on Multimedia and Expo (ICME) (pp. 514-519). IEEE.
++ Rathore, P., Basak, A., Nistala, S. H., & Runkana, V. (2020, July). Untargeted, Targeted and Universal Adversarial Attacks and Defenses on Time Series. In 2020 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE.
 
 ## Information Bottleneck Theory
 
@@ -91,6 +96,9 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 
 
 ## Neural Tangent Kernel
+
+### Key papers
+
 
 ## Approximation Theory of Neural Networks
 
