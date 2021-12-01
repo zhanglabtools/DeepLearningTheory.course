@@ -13,9 +13,9 @@ The topics and the corresponding material are as follows:
   4. **Tractable Landscapes for Nonconvex Optimization** [material](#Tractable-Landscapes-for-Nonconvex-Optimization) [slides](./course_files/Lecture4.TractableLandscapes.pdf)
   5. **Multilayer Convolutional Sparse Coding** [material](#Multilayer-Convolutional-Sparse-Coding) [slides](./course_files/Lecture5.ML-CSC.pdf)
   6. **Vulnerability of Deep Neural Networks** [material](#Vulnerability-of-Deep-Neural-Networks) [slides](./course_files/Lecture6.VulnerabilityofDeepNeuralNetworks.pdf)
-  7.  **Information Bottleneck Theory** [material](#Information-Bottleneck-Theory) [slides](./course_files/Lecture7.InformationBottleneckTheoryofDNNs.pdf)
-  8. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks)
-  9. **Neural Tangent Kernel** [material](#Neural-Tangent-Kernel)
+  7. **Information Bottleneck Theory** [material](#Information-Bottleneck-Theory) [slides](./course_files/Lecture7.InformationBottleneckTheoryofDNNs.pdf)
+  8. **Neural Tangent Kernel** [material](#Neural-Tangent-Kernel) [slides](./course_files/Lecture8.NeuralTangentKernel.pdf)
+  9. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks)
   10. **Dynamic System** [material](#Dynamic-System) 
   11. **Neural Networks Learn the Geodesic Curve in the Wasserstein Space** [material](#Neural-Networks-Learn-the-Geodesic-Curve-in-the-Wasserstein-Space)
   12. **Generative Model** [material](#Generative-Model)
@@ -90,9 +90,9 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 ### Key papers
 
 
-## Approximation Theory of Neural Networks
-
 ## Neural Tangent Kernel
+
+## Approximation Theory of Neural Networks
 
 ## Dynamic System
 
