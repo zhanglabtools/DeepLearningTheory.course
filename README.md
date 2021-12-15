@@ -18,8 +18,7 @@ The topics and the corresponding material are as follows:
   9. **Dynamic System and Deep Learning** [material](#Dynamic-System-and-Deep-Learning) [slides](./course_files/Lecture9.DynamicSystemandDeepLearning.pdf)
   10. **Dynamic View of Deep Learning** [material](#Dynamic-View-of-Deep-Learning) [slides](./course_files/Lecture10.DynamicViewofDeepLearning.pdf)
   11. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks)
-  12. **Neural Networks Learn the Geodesic Curve in the Wasserstein Space** [material](#Neural-Networks-Learn-the-Geodesic-Curve-in-the-Wasserstein-Space)
-  13. **Generative Model** [material](#Generative-Model)
+  12. **Generative Model** [material](#Generative-Model)
 
 ##  Prerequisites
 
@@ -113,7 +112,6 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 
 ## Approximation Theory of Neural Networks
 
-## Neural Networks Learn the Geodesic Curve in the Wasserstein Space
 
 ## Generative Model
 
