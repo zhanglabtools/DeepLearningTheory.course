@@ -15,10 +15,11 @@ The topics and the corresponding material are as follows:
   6. **Vulnerability of Deep Neural Networks** [material](#Vulnerability-of-Deep-Neural-Networks) [slides](./course_files/Lecture6.VulnerabilityofDeepNeuralNetworks.pdf)
   7. **Information Bottleneck Theory** [material](#Information-Bottleneck-Theory) [slides](./course_files/Lecture7.InformationBottleneckTheoryofDNNs.pdf)
   8. **Neural Tangent Kernel** [material](#Neural-Tangent-Kernel) [slides](./course_files/Lecture8.NeuralTangentKernel.pdf)
-  9. **Dynamic System and Deep Learning** [material](#Dynamic-System) [slides](./course_files/Lecture9.DynamicSystemandDeepLearning.pdf)
-  10. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks)
-  11. **Neural Networks Learn the Geodesic Curve in the Wasserstein Space** [material](#Neural-Networks-Learn-the-Geodesic-Curve-in-the-Wasserstein-Space)
-  12. **Generative Model** [material](#Generative-Model)
+  9. **Dynamic System and Deep Learning** [material](#Dynamic-System-and-Deep-Learning) [slides](./course_files/Lecture9.DynamicSystemandDeepLearning.pdf)
+  10. **Dynamic View of Deep Learning** [material](#Dynamic-View-of-Deep-Learning) [slides](./course_files/Lecture10.DynamicViewofDeepLearning.pdf)
+  11. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks)
+  12. **Neural Networks Learn the Geodesic Curve in the Wasserstein Space** [material](#Neural-Networks-Learn-the-Geodesic-Curve-in-the-Wasserstein-Space)
+  13. **Generative Model** [material](#Generative-Model)
 
 ##  Prerequisites
 
@@ -103,6 +104,11 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 ## Dynamic System and Deep Learning
 
 ### Key papers
+
+
+## Dynamic View of Deep Learning
+### Key papers
+
 
 
 ## Approximation Theory of Neural Networks
