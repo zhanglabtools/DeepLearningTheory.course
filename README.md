@@ -17,8 +17,8 @@ The topics and the corresponding material are as follows:
   8. **Neural Tangent Kernel** [material](#Neural-Tangent-Kernel) [slides](./course_files/Lecture8.NeuralTangentKernel.pdf)
   9. **Dynamic System and Deep Learning** [material](#Dynamic-System-and-Deep-Learning) [slides](./course_files/Lecture9.DynamicSystemandDeepLearning.pdf)
   10. **Dynamic View of Deep Learning** [material](#Dynamic-View-of-Deep-Learning) [slides](./course_files/Lecture10.DynamicViewofDeepLearning.pdf)
-  11. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks)
-  12. **Generative Model** [material](#Generative-Model)
+  11. **Generative Model** [material](#Generative-Model) [slides](./course_files/Lecture11.GenerativeModels-I.pdf)
+  12. **Approximation Theory of Neural Networks** [material](#Approximation-Theory-of-Neural-Networks)
 
 ##  Prerequisites
 
@@ -108,12 +108,15 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 ## Dynamic View of Deep Learning
 ### Key papers
 
+## Generative Model
+### Key papers
+
 
 
 ## Approximation Theory of Neural Networks
 
 
-## Generative Model
+
 
 
 
