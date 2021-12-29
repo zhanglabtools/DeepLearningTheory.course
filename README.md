@@ -97,7 +97,11 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 ## Neural Tangent Kernel
 
 ### Key papers
-
++ Jacot, A., Gabriel, F., & Hongler, C. (2018). Neural tangent kernel: Convergence and generalization in neural networks. arXiv preprint arXiv:1806.07572.
++ Lee, J., Xiao, L., Schoenholz, S., Bahri, Y., Novak, R., Sohl-Dickstein, J., & Pennington, J. (2019). Wide neural networks of any depth evolve as linear models under gradient descent. Advances in neural information processing systems, 32, 8572-8583.
++ Arora, S., Du, S., Hu, W., Li, Z., & Wang, R. (2019, May). Fine-grained analysis of optimization and generalization for overparameterized two-layer neural networks. In International Conference on Machine Learning (pp. 322-332). PMLR.
++ Arora, S., Du, S. S., Hu, W., Li, Z., Salakhutdinov, R., & Wang, R. (2019). On exact computation with an infinitely wide neural net. arXiv preprint arXiv:1904.11955.
++ Hu, W., Li, Z., & Yu, D. (2019). Simple and effective regularization methods for training on noisily labeled data with generalization guarantee. arXiv preprint arXiv:1905.11368.
 
 ## Dynamic System and Deep Learning
 
