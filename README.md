@@ -111,6 +111,14 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 ## Dynamic View of Deep Learning
 
 ### Key papers
++ Chen, R. T., Rubanova, Y., Bettencourt, J., & Duvenaud, D. (2018). Neural ordinary differential equations. arXiv preprint arXiv:1806.07366.
++ Yan, H., Du, J., Tan, V. Y., & Feng, J. (2019). On robustness of neural ordinary differential equations. arXiv preprint arXiv:1910.05513.
++ Gai, K., & Zhang, S. (2021). A Mathematical Principle of Deep Learning: Learn the Geodesic Curve in the Wasserstein Space. arXiv preprint arXiv:2102.09235.
++ Weinan, E. (2017). A proposal on machine learning via dynamical systems. Communications in Mathematics and Statistics, 5(1), 1-11.
++ Haber, E., & Ruthotto, L. (2017). Stable architectures for deep neural networks. Inverse problems, 34(1), 014004.
++ Li, Z., & Shi, Z. (2017). Deep residual learning and pdes on manifold. arXiv preprint arXiv:1708.05115.
++ Thorpe, M., & van Gennip, Y. (2018). Deep limits of residual neural networks. arXiv preprint arXiv:1810.11741.
++ Lu, Y., Ma, C., Lu, Y., Lu, J., & Ying, L. (2020, November). A mean field analysis of deep ResNet and beyond: Towards provably optimization via overparameterization from depth. In International Conference on Machine Learning (pp. 6426-6436). PMLR.
 
 ## Generative Model
 
