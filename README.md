@@ -109,12 +109,19 @@ Mathematical Analysis, Linear Algebra, Mathematical Statistics, Numerical Optimi
 
 
 ## Dynamic View of Deep Learning
+
 ### Key papers
 
 ## Generative Model
+
 ### Key papers
-
-
++ Kingma, D. P., & Welling, M. (2013). Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114.
++ Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). Generative adversarial nets. Advances in neural information processing systems, 27.
++ Arjovsky, M., & Bottou, L. (2017). Towards principled methods for training generative adversarial networks. arXiv preprint arXiv:1701.04862.
++ An, D., Guo, Y., Zhang, M., Qi, X., Lei, N., & Gu, X. (2020, August). AE-OT-GAN: Training GANs from data specific latent distribution. In European Conference on Computer Vision (pp. 548-564). Springer, Cham.
++ Arjovsky, M., Chintala, S., & Bottou, L. (2017, July). Wasserstein generative adversarial networks. In International conference on machine learning (pp. 214-223). PMLR.
++ Tolstikhin, I., Bousquet, O., Gelly, S., & Schoelkopf, B. (2017). Wasserstein auto-encoders. arXiv preprint arXiv:1711.01558.
++ Lei, N., An, D., Guo, Y., Su, K., Liu, S., Luo, Z., ... & Gu, X. (2020). A geometric understanding of deep learning. Engineering, 6(3), 361-374.
 
 
 
